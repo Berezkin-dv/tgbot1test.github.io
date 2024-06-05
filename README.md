@@ -1,4 +1,3 @@
-# tgbot1test.github.io
 <!--
     Simple static Telegram WebApp. Does not verify the WebAppInitData, as a bot token would be needed for that.
 -->
